@@ -1,0 +1,18 @@
+div > .vimiumHintMarker {
+  background: #cba6f7;
+  background: linear-gradient(180deg, #d7b7fb 0%, #a285c6 100%);
+  border: 1px solid #8e74ad;
+  border-radius: 3px;
+  box-shadow:
+    0 1px 0 #e1c9fd inset,
+    0 2px 8px rgba(17, 17, 27, 0.45);
+}
+div > .vimiumHintMarker span {
+  color: #11111b;
+  font-weight: 800;
+  font-size: 12px;
+}
+div > .vimiumHintMarker > .matchingCharacter {
+  color: #e6e9ef;
+  /* text-shadow: 0 1px 0 rgba(17, 17, 27, 0.35); */
+}
