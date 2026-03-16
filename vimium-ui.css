@@ -14,5 +14,4 @@ div > .vimiumHintMarker span {
 }
 div > .vimiumHintMarker > .matchingCharacter {
   color: #e6e9ef;
-  /* text-shadow: 0 1px 0 rgba(17, 17, 27, 0.35); */
 }
